@@ -1,6 +1,6 @@
 # Programa de bolsas DevSecOps CompassUol- Grupo 4- Trilha de Kuberbetes
 
-# Componentes do grupo: Flavio Henrique Almeida Junior, Maria Eduarda Araújo de Oliveira, Moises Francisco Ximenes De Souza e Ryan Do Rosario Santos Amaro.
+##Componentes do grupo: Flavio Henrique Almeida Junior, Maria Eduarda Araújo de Oliveira, Moises Francisco Ximenes De Souza e Ryan Do Rosario Santos Amaro.
 
 
 ## Projeto
