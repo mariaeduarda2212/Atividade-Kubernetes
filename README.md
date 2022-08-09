@@ -52,7 +52,9 @@ Para essa atividade foram solicitadas as seguintes tarefas:
 ## Pods, services e pvcs criados  
 
 kubectl get pods --namespace=labwordpress
+
 kubectl get services --namespace=labwordpress
+
 kubectl get pvcs --namespace=labwordpress
 
 ## URL do Ingress
