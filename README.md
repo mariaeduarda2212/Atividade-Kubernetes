@@ -17,7 +17,7 @@ Ainda, é necessário verificar qual foi a URL gerada através do ingress do Kub
 ## Desenvolvimento
 Para esse desenvolvimento, iremos usar virtualbox como um ambiente virtual usaremos a ISO do ORACLE LINUX.
 
-# Tarefas
+## Tarefas
 Para essa atividade foram solicitadas as seguintes tarefas:
 
 [T-01] Crie um namespace chamado labwordpress, tudo o que for feito deverá estar dentro deste namespace;
@@ -49,13 +49,13 @@ Para essa atividade foram solicitadas as seguintes tarefas:
 [T-14] Criar documentação
 
 
-# Pods, services e pvcs criados  
+## Pods, services e pvcs criados  
 
 kubectl get pods --namespace=labwordpress
 kubectl get services --namespace=labwordpress
 kubectl get pvcs --namespace=labwordpress
 
-# URL do Ingress
+## URL do Ingress
 
 kubectl describe pod wordpress -n labwordpress
 
