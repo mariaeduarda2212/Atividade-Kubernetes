@@ -1,9 +1,9 @@
-#Programa de bolsas DevSecOps CompassUol- Grupo 4- Trilha de Kuberbetes
+# Programa de bolsas DevSecOps CompassUol- Grupo 4- Trilha de Kuberbetes
 
-#Componentes do grupo: Flavio Henrique Almeida Junior, Maria Eduarda Araújo de Oliveira, Moises Francisco Ximenes De Souza e Ryan Do Rosario Santos Amaro.
+# Componentes do grupo: Flavio Henrique Almeida Junior, Maria Eduarda Araújo de Oliveira, Moises Francisco Ximenes De Souza e Ryan Do Rosario Santos Amaro.
 
 
-##Projeto
+## Projeto
 
 O projeto em questão foi solicitado pela empresa Compass UOL especificamente como atividade prática no desenvolvimento da trilha kubernetes. Referente ao estágio de DevSecOps.
 
@@ -14,10 +14,10 @@ Desta forma, no final da atividade devemos verificar se os pods, os services e o
 Ainda, é necessário verificar qual foi a URL gerada através do ingress do Kubernetes e copiar essa URL do Ingress e colar no browser para abrir a tela inicial do wordpress;
 
 
-##Desenvolvimento
+## Desenvolvimento
 Para esse desenvolvimento, iremos usar virtualbox como um ambiente virtual usaremos a ISO do ORACLE LINUX.
 
-##Tarefas
+# Tarefas
 Para essa atividade foram solicitadas as seguintes tarefas:
 
 [T-01] Crie um namespace chamado labwordpress, tudo o que for feito deverá estar dentro deste namespace;
@@ -49,18 +49,17 @@ Para essa atividade foram solicitadas as seguintes tarefas:
 [T-14] Criar documentação
 
 
-## Pods, services e pvcs criados  
+# Pods, services e pvcs criados  
 
 kubectl get pods --namespace=labwordpress
 kubectl get services --namespace=labwordpress
 kubectl get pvcs --namespace=labwordpress
 
-## URL do Ingress
+# URL do Ingress
 
 kubectl describe pod wordpress -n labwordpress
 
-
-##Entrega
+## Entrega
 Deverá ser desenvolvida a atividade em questão e entregue através do Github e com a documentação do READ.ME.
 
 Segue-se um link mais detalhado dos comandos usados desse projeto:
