@@ -68,4 +68,4 @@ Segue-se um link mais detalhado dos comandos usados desse projeto:
 Documentação da Atividade: https://scented-drain-3ab.notion.site/Atividade-Kubernetes-6ba728ba159a491d87f51dc8f7ac8e1b
 
 A documentação deverá ser concluida e entregue até 11/08/2022 às 10:00.
-A apresentação será o dia 12/08/2022 às 14:30.
+A apresentação será o dia 12/08/2022 às 14:30. 
