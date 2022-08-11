@@ -15,7 +15,7 @@ Ainda, é necessário verificar qual foi a URL gerada através do ingress do Kub
 
 
 ## Desenvolvimento
-Para esse desenvolvimento, iremos usar virtualbox como um ambiente virtual usaremos a ISO do ORACLE LINUX.
+Para esse desenvolvimento, iremos utilizar o docker for windows
 
 ## Tarefas
 Para essa atividade foram solicitadas as seguintes tarefas:
